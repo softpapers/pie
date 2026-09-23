@@ -1,6 +1,4 @@
-[![PDF Preview](Screenshot 2026-09-23 at 20.47.46.png)](FiLA___First_and_Last_Neighbours_Ultracentrifugation_Model_.pdf)
-<br/><br/>
-[![PDF Preview](s1.png)]
+[![PDF Preview](Screenshot 2026-09-23 at 20.47.46.png)]
 <br/><br/>
 [![PDF Preview](s2.png)]
 <br/><br/>
