@@ -1,4 +1,4 @@
-[![PDF Preview](Screenshot 2026-09-23 at 20.47.46.png)]
+[![PDF Preview](p1.png)]
 <br/><br/>
 [![PDF Preview](s2.png)]
 <br/><br/>
